@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Nodejs, SQL, React Query/TanStack.**
 
-- 👨‍💻 All of my projects are available at [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
+- 👨‍💻 Also my projects are available at [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
 
-- 📫 How to reach me **Krishnayadav48065@gmail.com**
+- 📫 Reach me : **Krishnayadav48065@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rxy_dfEigtc0-SLvN9r6fS1oZFIiWB9r/view](https://drive.google.com/file/d/1rxy_dfEigtc0-SLvN9r6fS1oZFIiWB9r/view)
 
-- ⚡ Fun fact **I am pretty good at drawing painting. You might wanna see this "https://photos.google.com/share/AF1QipMVhg05gyzl24SE-J-WN248H4GoARKmWltdzwTgP00cuAXLM7zqnuwqyyJ7qNEjQw?key=VUtGM3k1TzBIbzlTZVlYdHpFdHNjcXc0VXZvNi1n"**
+- ⚡ Fun fact : **I am pretty good at drawing painting. You might wanna see this "https://photos.google.com/share/AF1QipMVhg05gyzl24SE-J-WN248H4GoARKmWltdzwTgP00cuAXLM7zqnuwqyyJ7qNEjQw?key=VUtGM3k1TzBIbzlTZVlYdHpFdHNjcXc0VXZvNi1n"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
