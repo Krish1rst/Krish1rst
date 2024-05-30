@@ -51,7 +51,7 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex;  gap: 20px;">
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krish1rst&show_icons=true&locale=en&layout=compact" alt="krish1rst" />
 </div>
