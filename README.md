@@ -1,4 +1,6 @@
 
+<img align="center" alt="cover photo" width="100%" src="https://media.licdn.com/dms/image/D5616AQGx1_DFoXMISA/profile-displaybackgroundimage-shrink_350_1400/0/1716495344802?e=1722470400&v=beta&t=DipTTzBL472UbQehVfZ65VzAN8XtW9iK5IqXeeOgcWc">
+
 
 <h1 align="center">Hi 👋, I'm Krishna Singh Yadav</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
