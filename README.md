@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Singh Yadav</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lvd3B2ZnhqNWtibGRnOXZybzU3dXl1Z2p2bndoMTIxM2M1YmZjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcEliCc7bETyfO8/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1rst&label=Profile%20views&color=0e75b6&style=flat" alt="krish1rst" /> </p>
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyMjBudjFyMXFqOWc3cjU5ODVpa3N1ZjZsODgzMzNiN20xamY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="krish1rst" />
+</p>
 
 - 🔭 I’m currently working on [MERN ecommerce project.](https://github.com/Krish1rst/Shopify)
 
@@ -51,13 +52,13 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1;">
+  <div style="flex: 1; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krish1rst&show_icons=true&locale=en&layout=compact" alt="krish1rst" />
-  </div>
+</div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=krish1rst&show_icons=true&locale=en" alt="krish1rst" />
+    <img src="https://github-readme-stats.vercel.app/api?username=krish1rst&show_icons=true&locale=en" alt="krish1rst" />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish1rst&" alt="krish1rst" />
   </div>
-  <div style="flex: 1;">
+<!--   <div style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish1rst&" alt="krish1rst" />
-  </div>
+  </div> -->
 </div>
