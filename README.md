@@ -20,7 +20,6 @@
 
 - ⚡ Fun fact : **I am pretty good at drawing painting too. You might wanna see this "https://photos.google.com/share/AF1QipMVhg05gyzl24SE-J-WN248H4GoARKmWltdzwTgP00cuAXLM7zqnuwqyyJ7qNEjQw?key=VUtGM3k1TzBIbzlTZVlYdHpFdHNjcXc0VXZvNi1n"**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
