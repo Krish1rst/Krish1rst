@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<p align="left">
+<!-- <p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyMjBudjFyMXFqOWc3cjU5ODVpa3N1ZjZsODgzMzNiN20xamY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="krish1rst" />
-</p>
+</p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1rst&label=Profile%20views&color=0e75b6&style=flat" alt="krish1rst" /> </p>
 - 🔭 I’m currently working on [MERN ecommerce project.](https://github.com/Krish1rst/Shopify)
 
