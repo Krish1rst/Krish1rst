@@ -8,9 +8,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyMjBudjFyMXFqOWc3cjU5ODVpa3N1ZjZsODgzMzNiN20xamY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="krish1rst" />
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1rst&label=Profile%20views&color=0e75b6&style=flat" alt="krish1rst" /> </p>
-- 🔭 I’m currently working on [MERN ecommerce project.](https://github.com/Krish1rst/Shopify)
+- 🔭I’m currently working on an npm package project for automating the setup process of a Node.js project structure, which includes an interactive CLI for customization.(https://github.com/Krish1rst/npm-node-starter)
 
-- 🌱 I’m currently learning **Nodejs, SQL, React Query/TanStack.**
+- 🌱 I’m currently learning **CLI, Nodejs, SQL, React Query/TanStack.**
 
 - 👨‍💻 Also my projects are available at [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
 
