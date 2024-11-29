@@ -10,15 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1rst&label=Profile%20views&color=0e75b6&style=flat" alt="krish1rst" /> </p>
 - 🔭I’m currently working on an npm package project for automating the setup process of a Node.js project structure, which includes an interactive CLI for customization.(https://github.com/Krish1rst/npm-node-starter)
 
-- 🌱 I’m currently learning **CLI, Nodejs, SQL, React Query/TanStack.**
+- 🌱 I’m currently learning **Nodejs, SQL, React Query/TanStack.**
 
-- 👨‍💻 Also my projects are available at [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
+- 👨‍💻Portfolio :  [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
 
 - 📫 Reach me : **Krishnayadav48065@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rxy_dfEigtc0-SLvN9r6fS1oZFIiWB9r/view](https://drive.google.com/file/d/1rxy_dfEigtc0-SLvN9r6fS1oZFIiWB9r/view)
-
-- ⚡ Fun fact : **I am pretty good at drawing painting too. You might wanna see this "https://photos.google.com/share/AF1QipMVhg05gyzl24SE-J-WN248H4GoARKmWltdzwTgP00cuAXLM7zqnuwqyyJ7qNEjQw?key=VUtGM3k1TzBIbzlTZVlYdHpFdHNjcXc0VXZvNi1n"**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
