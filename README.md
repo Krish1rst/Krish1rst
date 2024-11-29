@@ -1,5 +1,5 @@
 
-<img align="center" alt="cover photo" width="100%" src="[https://media.licdn.com/dms/image/D5616AQGx1_DFoXMISA/profile-displaybackgroundimage-shrink_350_1400/0/1716495344802?e=1722470400&v=beta&t=DipTTzBL472UbQehVfZ65VzAN8XtW9iK5IqXeeOgcWc](https://media.licdn.com/dms/image/v2/D5616AQGx1_DFoXMISA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348992377?e=1738195200&v=beta&t=kE-FJbd6-OXnWEzH8BAHBPwOHE83v8Q1ZIfZW5lEvh8)">
+<img align="center" alt="cover photo" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQGx1_DFoXMISA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348992377?e=1738195200&v=beta&t=kE-FJbd6-OXnWEzH8BAHBPwOHE83v8Q1ZIfZW5lEvh8">
 
 
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
