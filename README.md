@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">Specialist officer (Assistant manager) in SBI</h3>
 <!-- <p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyMjBudjFyMXFqOWc3cjU5ODVpa3N1ZjZsODgzMzNiN20xamY1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="krish1rst" />
 </p> -->
