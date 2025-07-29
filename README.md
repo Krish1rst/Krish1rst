@@ -9,9 +9,6 @@
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1rst&label=Profile%20views&color=0e75b6&style=flat" alt="krish1rst" /> </p>
 
-
-- 🌱 I’m currently learning **Nodejs, SQL, React Query/TanStack.**
-
 - 👨‍💻Portfolio :  [https://krish-portfolio-opal.vercel.app/](https://krish-portfolio-opal.vercel.app/)
 
 - 📫 Reach me : **Krishnayadav48065@gmail.com**
